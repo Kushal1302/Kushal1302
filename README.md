@@ -9,19 +9,54 @@
   <img src="https://github-profile-trophy.vercel.app/?username=kushal1302&theme=onedark" alt="GitHub Profile Trophy" />
 </p>
 
-🔭 I’m currently working at [Amus soft](https://amussoft.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kushal1302&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-🌱 Learning **Full Stack Web Development**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushal1302&theme=radical" alt="GitHub Streak" />
+</p>
 
-👯 Open to collaborate on **Open Source Projects**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal1302&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-📝 My projects are available [here](https://kushal1302.github.io/portfolio/)
+<h3 align="center">🔭 Currently working at</h3>
+<p align="center">
+  <a href="https://amussoft.com" target="_blank">
+    <img src="https://img.shields.io/badge/Amus%20soft-0A66C2?style=for-the-badge&logo=About.me&logoColor=white" alt="Amus soft" />
+  </a>
+</p>
 
-📫 Reach me at **kushalmalviya1302@gmail.com**
+<h3 align="center">🌱 Learning</h3>
+<p align="center">
+  Full Stack Web Development
+</p>
 
-💬 Ask me about **React, Node.js, Express.js, Prisma, MongoDB**
+<h3 align="center">👯 Open to collaborate on</h3>
+<p align="center">
+  Open Source Projects
+</p>
 
-📄 Check out my experiences [here](https://drive.google.com/file/d/1Zai2_vK4cIHa4g9Zc_3RpA4Y0a2pLmiZ/view?usp=sharing)
+<h3 align="center">📝 My Projects</h3>
+<p align="center">
+  <a href="https://kushal1302.github.io/portfolio/" target="_blank">My Portfolio</a>
+</p>
+
+<h3 align="center">📫 Reach me at</h3>
+<p align="center">
+  kushalmalviya1302@gmail.com
+</p>
+
+<h3 align="center">💬 Ask me about</h3>
+<p align="center">
+  React, Node.js, Express.js, Prisma, MongoDB
+</p>
+
+<h3 align="center">📄 Check out my experiences</h3>
+<p align="center">
+  <a href="https://drive.google.com/file/d/1Zai2_vK4cIHa4g9Zc_3RpA4Y0a2pLmiZ/view?usp=sharing" target="_blank">My Resume</a>
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -49,16 +84,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> 
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal1302&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kushal1302&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushal1302&theme=radical" alt="GitHub Streak" />
 </p>
