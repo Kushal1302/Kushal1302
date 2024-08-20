@@ -1,20 +1,20 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=F75C7E&center=true&vCenter=true&width=440&height=55&lines=Hi+%F0%9F%91%8B%2C+I'm+%5BYour+Name%5D;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=F75C7E&center=true&vCenter=true&width=440&height=55&lines=Hi+%F0%9F%91%8B%2C+I'm+%5BYour+Kushal%5D;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
 <!-- Badge Section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
+  <a href="https://www.linkedin.com/in/kushal1302/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:kushalmalviya1302@gmail.com">
     <img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="https://yourwebsite.com/" target="_blank">
+  <a href="https://kushal1302.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge"/>
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
+  <a href="https://x.com/kushal_malviya1" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </p>
@@ -72,14 +72,14 @@
 <!-- GitHub Stats Section -->
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kushal302&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kushal1302&theme=tokyonight" alt="GitHub Streak" width="400" />
 </p>
 
 <!-- Top Languages Section -->
 <h2 align="center">🚀 Top Languages</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushal1302&layout=compact&theme=tokyonight" alt="Top Languages" width="400" />
 </p>
 
 ---
@@ -121,7 +121,7 @@
 <!-- Contribution Graph Section -->
 <h2 align="center">📈 Contribution Graph</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kushal1302&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -136,6 +136,6 @@
 
 <!-- Footer Section -->
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername" alt="Visitors Badge" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Follow%20Me&style=social" alt="GitHub Followers" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kushal1302" alt="Visitors Badge" />
+  <img src="https://img.shields.io/github/followers/Kushal1302?label=Follow%20Me&style=social" alt="GitHub Followers" />
 </p>
