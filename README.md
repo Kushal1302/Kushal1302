@@ -1,94 +1,141 @@
 <!-- Header Section -->
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
-<h3 align="center">A Passionate Full Stack Developer | Open Source Enthusiast | DevOps Learner</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=F75C7E&center=true&vCenter=true&width=440&height=55&lines=Hi+%F0%9F%91%8B%2C+I'm+%5BYour+Name%5D;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
+</p>
 
 <!-- Badge Section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="https://yourwebsite.com/">
-    <img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
+  <a href="https://yourwebsite.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </p>
 
-<!-- About Section -->
-## About Me
+<!-- GIF Section -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="450" />
+</p>
 
-- 🌱 I’m currently learning **DevOps and Kubernetes**
-- 🔭 I’m working on **[Your Current Project]**
-- 👨‍💻 Most of my projects are available on [GitHub](https://github.com/yourusername)
-- 💬 Ask me about **React, Next.js, TypeScript, Node.js, and DevOps**
-- ⚡ Fun fact: I love coding while listening to lo-fi beats 🎧
+<!-- About Me Section -->
+<h2 align="center">✨ About Me</h2>
+<p align="center">
+  I'm a passionate Full Stack Developer with a love for learning new technologies and building impactful software. My focus lies in creating seamless user experiences, writing clean code, and automating tasks with DevOps principles.
+</p>
+<p align="center">
+  When I'm not coding, you'll find me exploring open-source projects, listening to lo-fi music, or diving deep into cloud infrastructure!
+</p>
 
 ---
 
 <!-- Tech Stack Section -->
-## 🛠 Tech Stack
+<h2 align="center">⚙️ Tech Stack</h2>
 
-### Languages:
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### Frontend:
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### Backend & DevOps:
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-### Tools & Platforms:
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" />
+      <br>Kubernetes
+    </td>
+  </tr>
+</table>
 
 ---
 
 <!-- GitHub Stats Section -->
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" width="400" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
-</div>
+<!-- Top Languages Section -->
+<h2 align="center">🚀 Top Languages</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" width="400" />
+</p>
 
 ---
 
 <!-- Featured Repositories Section -->
-## 📁 Featured Projects
+<h2 align="center">💡 Featured Projects</h2>
 
-- [🚀 Project 1](https://github.com/yourusername/project1): Brief description of the project.
-- [🌐 Project 2](https://github.com/yourusername/project2): Brief description of the project.
-- [📱 Project 3](https://github.com/yourusername/project3): Brief description of the project.
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">🚀 Project 1</h3>
+      <p align="center">Brief description of the project.</p>
+      <p align="center">
+        <a href="https://github.com/yourusername/project1">
+          <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+        </a>
+        <a href="https://yourproject1live.com" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-111?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo Badge"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌐 Project 2</h3>
+      <p align="center">Brief description of the project.</p>
+      <p align="center">
+        <a href="https://github.com/yourusername/project2">
+          <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+        </a>
+        <a href="https://yourproject2live.com" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-111?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo Badge"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <!-- Contribution Graph Section -->
-## 🗂 Contributions Graph
-
+<h2 align="center">📈 Contribution Graph</h2>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
 
 <!-- Fun Quote Section -->
-## ✨ Quote of the Day
-
-_"The only way to do great work is to love what you do." – Steve Jobs_
+<h2 align="center">✨ Inspiring Quote</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Inspiring Quote" />
+</p>
 
 ---
 
 <!-- Footer Section -->
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername" alt="Visitors Badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername" alt="Visitors Badge" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Follow%20Me&style=social" alt="GitHub Followers" />
 </p>
