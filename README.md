@@ -1,141 +1,111 @@
-<!-- Header Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=F75C7E&center=true&vCenter=true&width=440&height=55&lines=Hi+%F0%9F%91%8B%2C+I'm+%5BYour+Kushal%5D;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Hi,+I'm+Kushal+%7C+Full+Stack+Engineer;Building+Scalable+Solutions+at+StackMates;Architecture+%7C+DevOps+%7C+Open+Source" alt="Typing SVG" />
 </p>
 
-<!-- Badge Section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/kushal1302/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:kushalmalviya1302@gmail.com">
-    <img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-Contact_Me-DB4437?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://kushal1302.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-StackMates-black?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
   <a href="https://x.com/kushal_malviya1" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/X_(Twitter)-Follow-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
 </p>
 
-<!-- GIF Section -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="450" />
+<br />
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center" width="60%">
+  I am a <strong>Full Stack Developer</strong> focused on building robust, scalable web applications. Currently operating under my brand, <strong>StackMates</strong>, I specialize in the JavaScript ecosystem and cloud-native architecture. 
+  <br /><br />
+  My engineering philosophy centers on writing clean, maintainable code and automating workflows using DevOps principles. I am currently deepening my expertise in <strong>AI integrations (LangChain)</strong> and <strong>Microservices architecture</strong>.
 </p>
 
-<!-- About Me Section -->
-<h2 align="center">✨ About Me</h2>
-<p align="center">
-  I'm a passionate Full Stack Developer with a love for learning new technologies and building impactful software. My focus lies in creating seamless user experiences, writing clean code, and automating tasks with DevOps principles.
-</p>
-<p align="center">
-  When I'm not coding, you'll find me exploring open-source projects, listening to lo-fi music, or diving deep into cloud infrastructure!
-</p>
+<br />
 
----
-
-<!-- Tech Stack Section -->
-<h2 align="center">⚙️ Tech Stack</h2>
+<h2 align="center">🛠️ Technical Arsenal</h2>
 
 <table align="center">
   <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      <br>React
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=react,nextjs" alt="Frontend" /><br>
+      <b>Frontend</b>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
-      <br>Next.js
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" alt="Backend" /><br>
+      <b>Backend</b>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=ts,js" alt="Languages" /><br>
+      <b>Languages</b>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-      <br>Node.js
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" alt="Database" /><br>
+      <b>Database</b>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" />
-      <br>Kubernetes
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" alt="DevOps" /><br>
+      <b>DevOps</b>
     </td>
   </tr>
 </table>
 
----
+<br />
 
-<!-- GitHub Stats Section -->
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kushal302&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kushal1302&theme=tokyonight" alt="GitHub Streak" width="400" />
-</p>
+<h2 align="center">🚀 Engineering Highlights</h2>
 
-<!-- Top Languages Section -->
-<h2 align="center">🚀 Top Languages</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushal1302&layout=compact&theme=tokyonight" alt="Top Languages" width="400" />
-</p>
-
----
-
-<!-- Featured Repositories Section -->
-<h2 align="center">💡 Featured Projects</h2>
-
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h3 align="center">🚀 Project 1</h3>
-      <p align="center">Brief description of the project.</p>
-      <p align="center">
+<table align="center" width="90%">
+  <thead>
+    <tr>
+      <th align="center" width="45%">📂 Project A (e.g., AI Invoicing Bot)</th>
+      <th align="center" width="45%">📂 Project B (e.g., Vishwakarma Web)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        A smart invoicing assistant leveraging <b>LangChain</b> and <b>PostgreSQL</b>.
+        <br /><br />
+        <code>React</code> <code>Node.js</code> <code>Docker</code> <code>Prisma</code>
+        <br /><br />
         <a href="https://github.com/yourusername/project1">
-          <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+          <img src="https://img.shields.io/badge/Source_Code-black?style=flat-square&logo=github" />
         </a>
-        <a href="https://yourproject1live.com" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Demo-111?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo Badge"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🌐 Project 2</h3>
-      <p align="center">Brief description of the project.</p>
-      <p align="center">
+      </td>
+      <td align="center">
+        Full-stack architecture for commercial engineering services.
+        <br /><br />
+        <code>Next.js</code> <code>Tailwind</code> <code>Typescript</code>
+        <br /><br />
         <a href="https://github.com/yourusername/project2">
-          <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+          <img src="https://img.shields.io/badge/Source_Code-black?style=flat-square&logo=github" />
         </a>
-        <a href="https://yourproject2live.com" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Demo-111?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo Badge"/>
-        </a>
-      </p>
-    </td>
-  </tr>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
----
+<br />
 
-<!-- Contribution Graph Section -->
-<h2 align="center">📈 Contribution Graph</h2>
+<h2 align="center">📊 Activity & Analytics</h2>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kushal1302&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kushal1302&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F1F1F1" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kushal1302&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="45%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushal1302&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" width="60%" />
 </p>
 
----
-
-<!-- Fun Quote Section -->
-<h2 align="center">✨ Inspiring Quote</h2>
-<p align="center">
+<br />
+<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Inspiring Quote" />
-</p>
-
----
-
-<!-- Footer Section -->
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kushal1302" alt="Visitors Badge" />
-  <img src="https://img.shields.io/github/followers/Kushal1302?label=Follow%20Me&style=social" alt="GitHub Followers" />
-</p>
+  <br /><br />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kushal1302.README&left_color=gray&right_color=blue" alt="visitors" />
+</div>
