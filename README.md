@@ -49,7 +49,7 @@ I have designed and shipped:
 
 ### 📬 Connect with Me
 
-* **Portfolio:** [kushaldev.in](kushaldev.in)
+* **Portfolio:** [kushaldev.in](https://www.kushaldev.in)
 * **LinkedIn:** [linkedin.com/in/kushal1302](https://www.linkedin.com/in/kushal1302)
 * **Email:** kushalmalviya1302@gmail.com
 * **Location:** Abu Road, Rajasthan, India
